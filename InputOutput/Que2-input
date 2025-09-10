@@ -1,0 +1,4 @@
+#Accept age from the user and print it.
+
+age = input("enter your age:")
+print(age)

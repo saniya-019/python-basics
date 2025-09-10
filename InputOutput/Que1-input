@@ -1,0 +1,6 @@
+
+#accept a number from the user.
+
+num = int(input("enter a number:"))
+
+print(num)

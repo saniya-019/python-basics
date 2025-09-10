@@ -1,0 +1,9 @@
+#accept two numbers and print the greatest between them.
+
+Num1 = input("Enter first number:")
+Num2 = input("Enter second number:")
+
+if Num1>Num2:
+    print(f"{Num1} is greater than {Num2}.")
+else:
+    print(f"{Num2} is greater than {Num1}.")
