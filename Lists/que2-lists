@@ -1,0 +1,9 @@
+#Mean of list elements.
+
+l = [12,23,34,45,67]
+
+sum = 0
+for i in l:
+    sum = sum + i
+
+print(sum/len(l))

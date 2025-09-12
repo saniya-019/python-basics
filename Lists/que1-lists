@@ -1,0 +1,12 @@
+a = [1,-23,33,56,-33-45]
+
+print("positive elements are:")
+
+for i in a:
+    if i >= 0:
+        print(i)
+
+print("negative elements are:")
+for i in a:
+    if i < 0:
+        print(i)        
